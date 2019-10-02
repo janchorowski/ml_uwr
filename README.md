@@ -1,2 +1,2 @@
 # ml_uwr
-Materials for my Machine Learning course at University of Wroclaw
+Materials for my Machine Learning course taught at the University of Wroclaw.
