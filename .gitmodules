@@ -1,3 +1,9 @@
 [submodule "projects/Maciej_Buszka"]
 	path = projects/Maciej_Buszka
 	url = git@github.com:mbuszka/ml-project.git
+[submodule "wikir_text_mining"]
+	path = wikir_text_mining
+	url = git@github.com:lambdaofgod/wikir_text_mining.git
+[submodule "projects/wikir_text_mining"]
+	path = projects/wikir_text_mining
+	url = git@github.com:lambdaofgod/wikir_text_mining.git
