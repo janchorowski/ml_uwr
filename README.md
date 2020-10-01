@@ -1,4 +1,4 @@
-# Machine Learning @University of Wrocław
+# Machine Learning@[University of Wrocław](uwr.edu.pl)
 
 Welcome!
 
